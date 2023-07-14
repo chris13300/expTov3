@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToV3\expToV3\bin\Debug\expToV3.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToV3\expToV3\bin\Debug\expToV3.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToV3\expToV3\bin\Debug\expToV3.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToV3\expToV3\bin\Debug\expToV3.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToV3\expToV3\obj\Debug\expToV3.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToV3\expToV3\obj\Debug\expToV3.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToV3\expToV3\obj\Debug\expToV3.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToV3\expToV3\obj\Debug\expToV3.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\expToV3\expToV3\obj\Debug\expToV3.pdb
